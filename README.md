@@ -5,7 +5,3 @@ Tools useful to automate and make tasks for a onePOS technician easier.
 - .zip decompression of files.
 - Adjustable source and destination file paths.
 
-## Installation
-To install, run:
-```python
-pip install myproject
