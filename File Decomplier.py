@@ -1,6 +1,7 @@
 #Francisco Cordova
 #OnePOS 1/11/25
 #Decompress multiple folders to one folder.
+
 import os
 import zipfile
 fileVarification = 0
